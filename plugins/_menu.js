@@ -95,7 +95,7 @@ ${readMore}
   const serverMessageId = 6;
 
   const opts = {
-    image: { url: "https://files.catbox.moe/244235.jpg" },
+    image: { url: "https://files.catbox.moe/927jzn.png" },
     caption: _cmd_st,
     mimetype: "image/jpeg",
     contextInfo: {

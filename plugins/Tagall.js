@@ -20,7 +20,7 @@ Module({
     let totalMembers = participants ? participants.length : 0;
     if (totalMembers === 0)
       return m.sendreply("❌ No members found in this group.");
-    const msgText = text?.trim() || "ATTENTION EVERYONE";
+    const msgText = text?.trim() || "মেয়েদেরকে উম্মাহ💋";
     const emojis = [
       "⚡",
       "✨",
